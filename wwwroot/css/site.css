@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color:black;
+ 
+}
+
+@media (max-width: 400px) {
+    .teste {
+        flex-direction: column;
+    }
+    img{
+        width:
+    }
+}
+
+@media (max-width: 600px) {
+    /* Estilos para dispositivos móveis */
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    /* Estilos para tablets */
+}
+
+@media (min-width: 1025px) {
+    /* Estilos para desktops */
+}
+
